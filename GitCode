@@ -7,4 +7,5 @@ git commit -m "version name"
 git log help you found the commited status one
 git commint -m "version" --amend > this will allow you to add new commit in previous version
 git add "file name" this will add only that file
-git add . > this will add all folders.
+git add . > this will add all folders. 
+git checkout -- . this work like git reset
