@@ -1,0 +1,10 @@
+This section will contain all basic code you need to know about Git
+===========================
+git config --global user.name "fikiribienvenu" This will allow you to set Git name
+git config --globale user.email"fikiribienve@gmail.com" This alos allow you to set user email
+git status This will show you git status
+git commit -m "version name"
+git log help you found the commited status one
+git commint -m "version" --amend > this will allow you to add new commit in previous version
+git add "file name" this will add only that file
+git add . > this will add all folders.
