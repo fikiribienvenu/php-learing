@@ -9,3 +9,4 @@ git commint -m "version" --amend > this will allow you to add new commit in prev
 git add "file name" this will add only that file
 git add . > this will add all folders. 
 git checkout -- . this work like git reset
+fikiri is the one who desing this
